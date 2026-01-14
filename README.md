@@ -80,4 +80,4 @@ Docker image
 
 Runtime details
 
-Successful deployment
+Successful deployment!
