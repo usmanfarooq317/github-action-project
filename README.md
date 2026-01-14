@@ -55,7 +55,7 @@ Push code to `main` branch
 
 ```bash
 git add .
-git commit -m "Initial CI/CD setup"
+git commit -m "Initial CI/CD Setup"
 git push origin main
 
 ✅ Step 6
