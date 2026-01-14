@@ -80,7 +80,7 @@ def home():
         <p><b>Docker Image:</b> github-actions-project</p>
         <p><b>Running Host:</b> {hostname}</p>
         <p><b>Build Time:</b> {build_time}</p>
-        <p><b>Exposed Port:</b> 8009</p>
+        <p><b>Exposed Port:</b> 5050</p>
     </div>
 
     <div class="card">
@@ -114,7 +114,7 @@ def home():
             <div class="step">
                 <span>▶️</span>
                 <b>Run Container</b>
-                <p>App runs on port 8009</p>
+                <p>App runs on port 5050</p>
             </div>
         </div>
     </div>
