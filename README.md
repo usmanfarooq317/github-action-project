@@ -78,6 +78,6 @@ GitHub Actions workflow
 
 Docker image
 
-Runtime details
+Runtime details.
 
 Successful deployment!
