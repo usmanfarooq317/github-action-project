@@ -121,7 +121,7 @@ def home():
 
     <footer>
         <p>✅ CI/CD pipeline working successfully!</p>
-        <p>Built using Python , Docker & GitHub Actions</p>
+        <p>Built using Python, Docker & GitHub Actions</p>
     </footer>
 </div>
 </body>
